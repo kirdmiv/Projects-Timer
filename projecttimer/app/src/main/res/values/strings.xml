@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProjectTimer</string>
+    <string name="text_btn">Add a project</string>
+</resources>
